@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/http//:sumit2609.github.io/facebook-clone/static/css/main.17ddca2e.chunk.css",
+    "main.js": "/http//:sumit2609.github.io/facebook-clone/static/js/main.d2765f30.chunk.js",
+    "main.js.map": "/http//:sumit2609.github.io/facebook-clone/static/js/main.d2765f30.chunk.js.map",
+    "runtime-main.js": "/http//:sumit2609.github.io/facebook-clone/static/js/runtime-main.61af87ba.js",
+    "runtime-main.js.map": "/http//:sumit2609.github.io/facebook-clone/static/js/runtime-main.61af87ba.js.map",
+    "static/js/2.72ac2221.chunk.js": "/http//:sumit2609.github.io/facebook-clone/static/js/2.72ac2221.chunk.js",
+    "static/js/2.72ac2221.chunk.js.map": "/http//:sumit2609.github.io/facebook-clone/static/js/2.72ac2221.chunk.js.map",
+    "static/js/3.ea7b0ea9.chunk.js": "/http//:sumit2609.github.io/facebook-clone/static/js/3.ea7b0ea9.chunk.js",
+    "static/js/3.ea7b0ea9.chunk.js.map": "/http//:sumit2609.github.io/facebook-clone/static/js/3.ea7b0ea9.chunk.js.map",
+    "index.html": "/http//:sumit2609.github.io/facebook-clone/index.html",
+    "static/css/main.17ddca2e.chunk.css.map": "/http//:sumit2609.github.io/facebook-clone/static/css/main.17ddca2e.chunk.css.map",
+    "static/js/2.72ac2221.chunk.js.LICENSE.txt": "/http//:sumit2609.github.io/facebook-clone/static/js/2.72ac2221.chunk.js.LICENSE.txt",
+    "static/media/facebook__logo.447953c2.svg": "/http//:sumit2609.github.io/facebook-clone/static/media/facebook__logo.447953c2.svg",
+    "static/media/profilephoto.5bbb640b.jpg": "/http//:sumit2609.github.io/facebook-clone/static/media/profilephoto.5bbb640b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61af87ba.js",
+    "static/js/2.72ac2221.chunk.js",
+    "static/css/main.17ddca2e.chunk.css",
+    "static/js/main.d2765f30.chunk.js"
+  ]
+}
